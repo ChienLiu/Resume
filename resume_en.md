@@ -109,6 +109,8 @@ MDVR systems
 ### FORMOSA Dataset  
 **Taiwan Multi-Sensor Autonomous Driving Dataset**
 
+<img src="media/image8.png" width="700">
+
 Role: Primary Designer & Core Executor
 
 Designed and implemented Taiwan’s representative multi-sensor dataset supporting perception research and industry collaboration.
@@ -137,6 +139,8 @@ Applications:
 
 ### Taoyuan International Airport Autonomous Shuttle
 
+<img src="media/image4.png" width="700">
+
 Role: Technical Lead
 
 Real-world autonomous shuttle validation deployed at Taoyuan International Airport.
@@ -157,6 +161,8 @@ Technologies integrated:
 
 ### 4D Radar AI Perception Collaboration
 
+<img src="media/image28.png" width="700">
+
 Collaborated with industry partners to develop AI perception technology for 4D radar.
 
 Key work:
@@ -173,6 +179,8 @@ Applications:
 
 ### VisionSafe Smart Cockpit System  
 **R&D 100 Award Winner (2025)**
+
+<img src="media/image20.png" width="700">
 
 AI-powered smart cockpit solution designed for commercial vehicles.
 
@@ -195,8 +203,12 @@ Impact:
 **R&D 100 Award (2025)**  
 VisionSafe Smart Cockpit Solution
 
+<img src="media/image21.png" width="700">
+
 **SOTIF (ISO 21448) Professional Certification**  
 SGS TÜV Saar
+
+<img src="media/image5.png" width="700">
 
 **IEEE ICIEB 2021**
 
