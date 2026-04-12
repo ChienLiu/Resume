@@ -1,42 +1,82 @@
-# Wei-Chen Liu  
-**Automotive AI Perception & System Architect**  
+# Wei-Chen Liu
+
+**Automotive AI Perception & Multi-Sensor System Architect**  
 Taipei, Taiwan  
-Email: chien0928@gmail.com | LinkedIn: https://www.linkedin.com/in/wei-chen-liu-a83655132/  
+
+📧 chien0928@gmail.com  
+🔗 https://www.linkedin.com/in/wei-chen-liu-a83655132/
+
+R&D 100 Award Winner | SOTIF (ISO 21448) Professional
 
 ---
 
 ## Professional Summary
 
-Automotive AI technical leader with over 8 years of experience in multi-sensor perception systems, large-scale dataset architecture, and real-world autonomous deployment. Specialized in camera, thermal imaging, LiDAR, and 4D radar-based perception for ADAS and intelligent mobility applications.
+Automotive AI engineer with 8+ years of experience spanning multi-sensor perception, dataset architecture, and real-world autonomous deployment.
 
-Led development of Taiwan’s representative multi-sensor road scene dataset (FORMOSA) and VisionSafe smart cockpit system, recognized by the 2025 R&D 100 Award. Experienced in system-level integration, edge AI deployment, and cross-functional technical leadership.
+Specialized in camera, thermal imaging, LiDAR, and 4D radar perception systems for ADAS and intelligent mobility. Experienced across the full technical pipeline including sensor calibration, dataset construction, perception algorithm development, system integration, and field validation.
+
+Led development of Taiwan’s representative multi-sensor road scene dataset **FORMOSA**, and the **VisionSafe smart cockpit system**, which received the **2025 R&D 100 Award**.
+
+---
+
+## Technical Stack
+
+**Programming**
+
+C++, Python
+
+**AI / Machine Learning**
+
+PyTorch, ONNX, TensorRT
+
+**Computer Vision**
+
+OpenCV, Deep Learning Perception
+
+**Robotics & Middleware**
+
+ROS, RViz
+
+**Sensors**
+
+Camera  
+Thermal Imaging  
+LiDAR  
+4D Radar
+GPS/IMU
+
+**Hardware Platforms**
+
+NVIDIA Jetson  
+Edge AI SoC
+
+**Vehicle Systems**
+
+CAN Bus integration  
+MDVR systems
 
 ---
 
 ## Core Expertise
 
-### Automotive AI & ADAS
-- Camera / Thermal / 4D Radar perception
-- AI-ADAS module development
-- Edge AI deployment (Jetson / AI SoC platforms)
+### Automotive AI Perception
+- Multi-sensor perception system design
+- AI-ADAS algorithm development
+- Sensor fusion and perception pipeline optimization
 - Real-world performance validation
 
-### Multi-Sensor Engineering
-- Multi-sensor calibration & synchronization
-- Cross-modal object-level annotation design
-- Large-scale dataset architecture (FORMOSA)
-- Sensor data processing & evaluation
+### Multi-Sensor Dataset Engineering
+- Dataset architecture design
+- Multi-sensor calibration and synchronization
+- Cross-modal object-level annotation frameworks
+- Large-scale deep learning dataset construction
 
-### System Integration & Deployment
-- Autonomous vehicle validation (airport shuttle)
-- High-precision localization & mapping
-- Perception-to-control pipeline optimization
-- AR-HUD integration for safety visualization
-
-### Technical Leadership
-- Section Manager leading cross-functional AI teams
-- Industry collaboration with Tier1 and automotive partners
-- Research-to-product commercialization strategy
+### System Integration
+- Perception-to-control pipeline integration
+- Autonomous vehicle validation
+- Edge AI deployment
+- AR-HUD safety visualization systems
 
 ---
 
@@ -47,75 +87,128 @@ Led development of Taiwan’s representative multi-sensor road scene dataset (FO
 #### Section Manager – Intelligent Mobility & AI Systems  
 **Mar 2024 – Present**
 
-- Lead technical development of automotive AI perception and smart cockpit systems  
-- Oversee multi-sensor perception projects integrating camera, thermal imaging, LiDAR, and 4D radar  
-- Coordinate cross-functional teams across algorithm, hardware, data engineering, and system integration  
-- Drive industry collaboration for AI-ADAS commercialization and international market expansion  
+- Lead development of automotive AI perception and smart cockpit systems
+- Manage cross-functional teams covering perception algorithms, data engineering, and system integration
+- Oversee multi-sensor perception projects integrating camera, thermal imaging, LiDAR, and 4D radar
+- Drive collaboration with industry partners for commercial vehicle AI-ADAS deployment
+
+---
 
 #### Software Engineer – Automotive AI & Perception Systems  
 **Oct 2017 – Feb 2024**
 
-- Developed AI-based perception algorithms for ADAS applications  
-- Designed and executed large-scale multi-sensor dataset infrastructure  
-- Conducted real-world validation under diverse traffic and environmental conditions  
-- Contributed to autonomous vehicle and intelligent mobility demonstration projects  
+- Developed perception algorithms for automotive AI systems
+- Designed and implemented multi-sensor datasets for autonomous driving
+- Conducted real-world validation across diverse traffic and environmental conditions
+- Participated in autonomous vehicle deployment and intelligent mobility demonstrations
 
 ---
 
 ## Selected Projects
 
-### FORMOSA Dataset – Taiwan Multi-Sensor Road Scene Dataset  
-**Role: Primary Designer & Core Executor**
+### FORMOSA Dataset  
+**Taiwan Multi-Sensor Autonomous Driving Dataset**
 
-- Designed and implemented one of Taiwan’s largest multi-sensor deep learning datasets  
-- Integrated synchronized data from camera, thermal imaging, LiDAR, and 4D radar  
-- Developed sensor calibration, temporal alignment, and cross-sensor object-level annotation architecture  
-- Supported AI model training for 150+ object classes across diverse traffic scenarios  
-- Enabled industry collaboration for AI mobility research and commercialization  
+Role: Primary Designer & Core Executor
+
+Designed and implemented Taiwan’s representative multi-sensor dataset supporting perception research and industry collaboration.
+
+Key contributions:
+
+- Multi-sensor dataset architecture design
+- Sensor calibration and synchronization
+- Cross-sensor object-level annotation framework
+
+Sensor modalities:
+
+- Camera
+- Thermal Imaging
+- LiDAR
+- 4D Radar
+- GPS/IMU
+
+Applications:
+
+- Autonomous driving perception research
+- Multi-sensor AI model training
+- Industry collaboration projects
 
 ---
 
-### Taoyuan International Airport Autonomous Shuttle Validation  
-**Role: Technical Lead**
+### Taoyuan International Airport Autonomous Shuttle
 
-- Executed large-scale indoor autonomous shuttle validation project  
-- Achieved <40 ms localization latency and <60 ms perception-to-control processing  
-- Integrated AI perception, high-definition mapping, and decision algorithms in real-world operation  
-- Completed over 3,000 passenger transport instances within a 3-month operational period  
+Role: Technical Lead
+
+Real-world autonomous shuttle validation deployed at Taoyuan International Airport.
+
+Key metrics:
+
+- Localization latency < 40 ms
+- Perception-to-control processing < 60 ms
+- 3,000+ passenger rides completed during a 3-month pilot
+
+Technologies integrated:
+
+- AI perception systems
+- High-definition mapping
+- Autonomous navigation and control algorithms
 
 ---
 
 ### 4D Radar AI Perception Collaboration
 
-- Co-developed 4D radar object detection technology with industry partners  
-- Built structured dataset and evaluation framework for radar-based perception  
-- Supported AI-ADAS module development for commercial vehicle applications  
+Collaborated with industry partners to develop AI perception technology for 4D radar.
+
+Key work:
+
+- Radar dataset construction
+- Object detection model development
+- Evaluation framework for radar perception
+
+Applications:
+
+- Commercial vehicle ADAS systems
 
 ---
 
-### VisionSafe Smart Cockpit & AI-ADAS System  
+### VisionSafe Smart Cockpit System  
 **R&D 100 Award Winner (2025)**
 
-- Led development of large commercial vehicle intelligent cockpit solution  
-- Integrated AI-ADAS perception with AR-HUD real-time visualization  
-- Combined thermal imaging and visible-light perception to address adverse weather and blind-spot risks  
-- Delivered system-level productization for industry deployment and international exhibition (CES 2025)  
+AI-powered smart cockpit solution designed for commercial vehicles.
+
+System features:
+
+- AI-ADAS perception modules
+- AR-HUD real-time safety visualization
+- Multi-sensor perception combining thermal and visible cameras
+
+Impact:
+
+- Improves safety in blind-spot and adverse weather conditions
+- Demonstrated at **CES 2025**
+- Recognized with **R&D 100 Award**
 
 ---
 
 ## Publications & Honors
 
-- **2025 R&D 100 Award** – VisionSafe Smart Cockpit Solution  
-- **SOTIF (ISO 21448) Professional** – SGS TÜV Saar  
-- **IEEE ICIEB 2021 **  
-  _All-Weather Automotive Perception: AI-ADAS using Fusion of Thermal Imaging and RADAR Sensors_
+**R&D 100 Award (2025)**  
+VisionSafe Smart Cockpit Solution
+
+**SOTIF (ISO 21448) Professional Certification**  
+SGS TÜV Saar
+
+**IEEE ICIEB 2021**
+
+_All-Weather Automotive Perception:  
+AI-ADAS using Fusion of Thermal Imaging and RADAR Sensors_
 
 ---
 
 ## Education
 
 **M.S., Electrical and Electronics Engineering**  
-National Taiwan Normal University  
+National Taiwan Normal University
 
 **B.S., Electrical and Electronics Engineering**  
-National Taiwan Normal University  
+National Taiwan Normal University
