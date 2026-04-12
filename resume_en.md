@@ -180,7 +180,7 @@ Applications:
 ### VisionSafe Smart Cockpit System  
 **R&D 100 Award Winner (2025)**
 
-<img src="media/image20.png" width="700">
+<img src="media/image20.jpeg" width="700">
 
 AI-powered smart cockpit solution designed for commercial vehicles.
 
