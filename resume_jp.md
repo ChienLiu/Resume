@@ -117,6 +117,8 @@ MDVR systems
 ### FORMOSA Dataset  
 **台湾マルチセンサ自動運転データセット**
 
+<img src="media/image8.png" width="500">
+
 役割：主要設計・実装メンバー
 
 台湾代表的なマルチセンサ自動運転データセットを設計・構築。
@@ -145,6 +147,8 @@ MDVR systems
 
 ### 桃園国際空港 自動運転シャトル実証
 
+<img src="media/image4.png" width="500">
+
 役割：技術リード
 
 桃園国際空港における実環境自動運転シャトル実証プロジェクト。
@@ -165,6 +169,8 @@ MDVR systems
 
 ### 4D Radar AI Perception Collaboration
 
+<img src="media/image28.png" width="500">
+
 4Dミリ波レーダー認識技術の共同開発。
 
 主な取り組み：
@@ -181,6 +187,8 @@ MDVR systems
 
 ### VisionSafe Smart Cockpit System  
 **R&D 100 Award（2025）受賞**
+
+<img src="media/image20.jpeg" width="500">
 
 商用車向けAIスマートコックピットシステム。
 
@@ -204,9 +212,13 @@ MDVR systems
 
 VisionSafe Smart Cockpit Solution
 
+<img src="media/image21.png" width="200">
+
 **SOTIF（ISO 21448）Professional**
 
 SGS TÜV Saar
+
+<img src="media/image5.png" width="200">
 
 **IEEE ICIEB 2021**
 
