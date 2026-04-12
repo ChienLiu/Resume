@@ -117,6 +117,8 @@ MDVR 車載影像系統
 ### FORMOSA Dataset  
 **台灣多感測器自動駕駛資料集**
 
+<img src="media/image8.png" width="500">
+
 角色：主要設計與核心執行成員
 
 建置台灣代表性的多感測器自動駕駛資料集。
@@ -145,6 +147,8 @@ MDVR 車載影像系統
 
 ### 桃園國際機場自動駕駛接駁車
 
+<img src="media/image4.png" width="500">
+
 角色：技術負責人
 
 桃園機場室內自動駕駛接駁車實證專案。
@@ -165,6 +169,8 @@ MDVR 車載影像系統
 
 ### 4D 雷達 AI 感知合作專案
 
+<img src="media/image28.png" width="500">
+
 與產業合作開發 4D 雷達 AI 感知技術。
 
 主要內容：
@@ -181,6 +187,8 @@ MDVR 車載影像系統
 
 ### VisionSafe 智慧座艙系統  
 **2025 R&D 100 Award 得主**
+
+<img src="media/image20.jpeg" width="500">
 
 大型商用車 AI 智慧座艙系統。
 
@@ -204,9 +212,13 @@ MDVR 車載影像系統
 
 VisionSafe Smart Cockpit Solution
 
+<img src="media/image21.png" width="200">
+
 **SOTIF（ISO 21448）Professional**
 
 SGS TÜV Saar
+
+<img src="media/image5.png" width="200">
 
 **IEEE ICIEB 2021**
 
