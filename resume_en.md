@@ -203,12 +203,12 @@ Impact:
 **R&D 100 Award (2025)**  
 VisionSafe Smart Cockpit Solution
 
-<img src="media/image21.png" width="700">
+<img src="media/image21.png" width="300">
 
 **SOTIF (ISO 21448) Professional Certification**  
 SGS TÜV Saar
 
-<img src="media/image5.png" width="700">
+<img src="media/image5.png" width="300">
 
 **IEEE ICIEB 2021**
 
