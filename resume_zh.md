@@ -24,42 +24,31 @@ R&D 100 Award 得主 ｜ SOTIF（ISO 21448）Professional
 
 **程式語言**
 
-C++  
-Python
+C++ | Python
 
 **人工智慧 / 機器學習**
 
-PyTorch  
-ONNX  
-TensorRT
+PyTorch | ONNX | TensorRT
 
 **電腦視覺**
 
-OpenCV  
-Deep Learning Perception
+OpenCV | Deep Learning Perception
 
 **機器人 / 系統框架**
 
-ROS  
-RViz
+ROS | RViz
 
 **感測器技術**
 
-Camera  
-Thermal Imaging  
-LiDAR  
-4D Radar
-GPS/IMU
+Camera | Thermal Imaging | LiDAR | 4D Radar | GPS/IMU
 
 **運算平台**
 
-NVIDIA Jetson  
-Edge AI SoC
+NVIDIA Jetson | Edge AI SoC
 
 **車載系統**
 
-CAN Bus  
-MDVR 車載影像系統
+CAN Bus | MDVR 車載影像系統
 
 ---
 
