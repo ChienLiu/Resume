@@ -45,21 +45,15 @@ ROS, RViz
 
 **センサ**
 
-Camera  
-Thermal Imaging  
-LiDAR  
-4D Radar
-GPS/IMU
+Camera, Thermal Imaging, LiDAR, 4D Radar, GPS/IMU
 
 **ハードウェアプラットフォーム**
 
-NVIDIA Jetson  
-Edge AI SoC
+NVIDIA Jetson, Edge AI SoC
 
 **車載システム**
 
-CAN Bus integration  
-MDVR systems
+CAN Bus integration, MDVR systems
 
 ---
 
