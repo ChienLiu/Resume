@@ -224,11 +224,9 @@ AI-ADAS using Fusion of Thermal Imaging and RADAR Sensors
 ## 学歴
 
 **国立台湾師範大学**
-
 修士  
 電機工学
 
 **国立台湾師範大学**
-
 学士  
 電機工学
