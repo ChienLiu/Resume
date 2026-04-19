@@ -40,21 +40,15 @@ ROS, RViz
 
 **Sensors**
 
-Camera  
-Thermal Imaging  
-LiDAR  
-4D Radar
-GPS/IMU
+Camera, Thermal Imaging, LiDAR, 4D Radar, GPS/IMU
 
 **Hardware Platforms**
 
-NVIDIA Jetson  
-Edge AI SoC
+NVIDIA Jetson, Edge AI SoC
 
 **Vehicle Systems**
 
-CAN Bus integration  
-MDVR systems
+CAN Bus integration, MDVR systems
 
 ---
 
